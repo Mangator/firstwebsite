@@ -1,0 +1,18 @@
+h1 {
+ text-align: center;    
+ color: blue; }
+
+body { color: #333333; background: url(images/elementarystudent.png) no-repeat top right, url(images/student.jpg) no-repeat bottom left, #e3e5e100;
+    padding-left: 120px; 
+    padding-right: 120px; }
+figure {
+    max-width: 700px;
+    margin: 0 auto; 
+    display: block;
+    text-align:center; }
+p {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+figcaption { font-size: .9em; 
+    font-style:italic; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    color:blue; }
